@@ -1,0 +1,1 @@
+gcc -g -pg -Wall -o RACIPE RACIPE.o pcg_basic.o RACIPELIB.o rkf45.o -lm
